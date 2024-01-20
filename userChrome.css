@@ -56,7 +56,7 @@ toolbar#nav-bar {
 
     /*  Url bar  */
     #nav-bar {
-        order: 1;
+        order: 3;
         width: var(--navbarWidth);
     }
 
@@ -68,7 +68,7 @@ toolbar#nav-bar {
 
     /* Bookmarks bar */
     #PersonalToolbar {
-        order: 3;
+        order: 1;
         width: 100%;
     }
     
@@ -140,6 +140,3 @@ toolbar#nav-bar {
 #PanelUI-menu-button .toolbarbutton-badge-stack {
     padding: 0px !important; 
 }
-
-
-
