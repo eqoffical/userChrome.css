@@ -20,6 +20,11 @@
     background: var(--accent-color) !important;
 }
 
+/* Hide close button on tabs */
+.tab-close-button {
+	display: none !important;
+}
+
 /* Sets the toolbar color */
 toolbar#nav-bar {
     background: var(--accent-color) !important;
