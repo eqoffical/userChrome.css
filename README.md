@@ -1,5 +1,7 @@
 <h1>Deprecated!</h1>
-<p>See the latest version in the <a href="https://git.noleron.com/eq/userChrome-css">new repo</a></p>
+<h3>See the latest version in the <a href="https://git.noleron.com/eq/userChrome-css">new repo</a></h3>
+
+<br>
 
 <div align="center">
 
